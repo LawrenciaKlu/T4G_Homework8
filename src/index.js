@@ -23,5 +23,5 @@
             alert(`invalid input`)
         }
     }
-    checkGender()
+    // checkGender()
     
