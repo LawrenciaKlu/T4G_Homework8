@@ -14,14 +14,14 @@
         gender = gender .toLowerCase();
 
         if (gender =="female"){
-        alert(`You are a ${gender}👩🏼`)
+        alert(`You are a ${gender}👩🏼`);
         } 
         else if (gender =="male"){
-            alert(`You are a ${gender}👨🏼`)
+            alert(`You are a ${gender}👨🏼`);
         } 
         else {
             alert(`invalid input`)
         }
     }
-    // checkGender()
+    checkGender()
     
